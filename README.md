@@ -14,10 +14,10 @@
 ## Technologies
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-##📈 Stats
+## 📈 Stats
 [![luisengueva GitHub stats](https://github-readme-stats.vercel.app/api?username=luisengueva&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisengueva&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
-##🎵 Music I enjoy
+## 🎵 Music I enjoy
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luisenriquegeva&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=006eff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## How to contact me
