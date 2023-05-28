@@ -20,4 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisengueva&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 
 ## Music I enjoy
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luisenriquegeva&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=luisenriquegeva&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luisenriquegeva&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=006eff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
