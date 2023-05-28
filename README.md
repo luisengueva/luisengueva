@@ -1,6 +1,6 @@
 ### Hi there 🦠
 
-<img align="right" src="https://i.pinimg.com/originals/6e/e3/2d/6ee32d20b6108e733c08c5173018b962.jpg" width=300>
+<img align="right" src="https://i.pinimg.com/564x/c8/c5/eb/c8c5eb1e26067c4f0d68dd9793080afd.jpg" width=40% height="950">
 
 🔭 I'm a software engineer currently working on API integration.
 
