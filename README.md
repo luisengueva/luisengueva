@@ -22,4 +22,4 @@
 
 ## How to contact me
   <a href="https://www.linkedin.com/in/luisen-sanchez-guevara/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="mailto:luisenriquegeva@gmail.es">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+  <a href="mailto:luisenriquegeva@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
